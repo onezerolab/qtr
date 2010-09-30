@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/apply.png</file>
+        <file>img/configure.png</file>
+        <file>img/translate.png</file>
+        <file>html/manual.html</file>
+        <file>img/gplv3.png</file>
+    </qresource>
+</RCC>
