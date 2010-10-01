@@ -1,0 +1,20 @@
+Qtr
+
+Multilingual translator using Google AJAX Language API.
+
+
+
+To compile and run this app you need Qt SDK. You can download it from here:
+
+http://qt.nokia.com/downloads
+
+
+
+Once you have it, open "qtr.pro" with Qt Creator and build release
+configuration.
+
+Or build from console:
+
+cd <qtr-directory>
+qmake
+make 
